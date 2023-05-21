@@ -2,8 +2,8 @@
 
 ### ABOUT ME
 
-Here you will find everything from frontend to beatmaking)
-But probably my main occupation is frontend development, so scroll on (<<-there should be a steep down arrow ->>)
+Here you wil find everything : from frontend to beatmaking
+But my main occupation is frontend development, so scroll on ⬇
 
 * 🔥 I'm web-developer
 * 🌍 I'm based in Saint-Petersburg
