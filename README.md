@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  My name is Maady </h1>
 
-<img src="https://upload.wikimedia.org/wikipedia/ru/6/6b/NyanCat.gif">
-
 ### ABOUT ME
 
 Here you wil find everything : from frontend to beatmaking
@@ -46,9 +44,12 @@ But my main occupation is frontend development, so scroll on ⬇
 <a href="https://github.com/https://github.com/NickMad17" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/"http://www.instagram.com/_mad_niks_" target="_blank">
+<a href="https://instagram.com/http://www.instagram.com/_mad_niks_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 <br/>  
+
+<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/ru/6/6b/NyanCat.gif" height="250px"></h1>
+
