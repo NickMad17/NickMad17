@@ -9,8 +9,11 @@ But my main occupation is frontend development, so scroll on ⬇
 
 * 🔥 I'm web-developer
 * 🌍 I'm based in Saint-Petersburg
-* 🖥️ See my portfolio at [🔥My Projects🔥](http://nickmad17.github.io/CV/)
 * 🚀 I'm currently working on [Shop](http://github.com/NickMad17/ShopProject.git)
+
+##  See my portfolio at [🔥My Projects🔥](http://nickmad17.github.io/CV/)
+
+<a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/assets/104986153/24dd0bad-3fa4-413e-8669-5d4af78a706c" width="75%"/></a>
 
 <h2 align="left">My Skill Set</h2>
 
