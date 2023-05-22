@@ -2,7 +2,7 @@
  -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  My name is Maady </h1>
 
-<p align="center"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/photo_5431570360584751641_w.jpg" width="1000"/></a></p>
+<p align="center"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/photo_5431570360584751641_w.jpg" width="900"/></a></p>
 
 
 
