@@ -11,9 +11,9 @@ But my main occupation is frontend development, so scroll on ⬇
 * 🌍 I'm based in Saint-Petersburg
 * 🚀 I'm currently working on [Shop](http://github.com/NickMad17/ShopProject.git)
 
-###  My Portfolio
+ <h3 align="left">Portfolio⬇</h3>
 
-<p align="left"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/photo_5431570360584751647_x.jpg" height="200" width="200"/></a></p>
+<p align="left"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/home_2.png" height="200" width="200"/></a></p>
 
 <h2 align="left">My Skill Set</h2>
 
