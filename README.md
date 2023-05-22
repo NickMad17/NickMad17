@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  My name is Maady </h1>
 
+<img src="https://upload.wikimedia.org/wikipedia/ru/6/6b/NyanCat.gif">
+
 ### ABOUT ME
 
 Here you wil find everything : from frontend to beatmaking
