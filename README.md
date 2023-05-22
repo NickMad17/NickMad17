@@ -2,6 +2,11 @@
  -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  My name is Maady </h1>
 
+<h4 align="center">My Portfolio⬇</h3>
+
+<p align="center"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/home_2.png" height="200" width="200"/></a></p>
+
+
 ### ABOUT ME
 
 Here you wil find everything : from frontend to beatmaking
@@ -11,9 +16,9 @@ But my main occupation is frontend development, so scroll on ⬇
 * 🌍 I'm based in Saint-Petersburg
 * 🚀 I'm currently working on [Shop](http://github.com/NickMad17/ShopProject.git)
 
- <h3 align="left">My Portfolio⬇</h3>
+ <h3 align="center">My Portfolio⬇</h3>
 
-<p align="left"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/home_2.png" height="200" width="200"/></a></p>
+<p align="center"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/home_2.png" height="200" width="200"/></a></p>
 
 <h2 align="left">My Skill Set</h2>
 
