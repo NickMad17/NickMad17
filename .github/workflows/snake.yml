@@ -22,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: https://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@github.com/NickMad17/NickMad17.git
