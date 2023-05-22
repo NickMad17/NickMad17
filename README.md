@@ -1,10 +1,10 @@
 <!-- <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/ru/6/6b/NyanCat.gif" height="250px"></h1>
  -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  My name is Maady </h1>
-<!-- 
-<p align="center"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/home_2.png" height="200" width="200"/></a></p> -->
 
-![photo_5431570360584751641_w](https://github.com/NickMad17/NickMad17/assets/104986153/17683b20-78d7-4365-b95b-dffd237b303b)
+<p align="center"><a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/photo_5431570360584751641_w.jpg" width="1000"/></a></p>
+
+
 
 
 <h4 align="center">My Portfolio⬆⬆⬆</h4>
