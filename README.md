@@ -13,7 +13,7 @@ But my main occupation is frontend development, so scroll on ⬇
 
 ##  See my portfolio at [🔥My Projects🔥](http://nickmad17.github.io/CV/)
 
-<a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/assets/104986153/24dd0bad-3fa4-413e-8669-5d4af78a706c" width="75%"/></a>
+<a href="https://nickmad17.github.io/CV"><img src="https://github.com/NickMad17/NickMad17/blob/main/photo_5431570360584751641_w.jpg" width="75%"/></a>
 
 <h2 align="left">My Skill Set</h2>
 
