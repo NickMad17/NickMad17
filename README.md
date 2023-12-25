@@ -18,7 +18,6 @@ But my main occupation is frontend development, so scroll on ⬇
 
 * 🔥 I'm web-developer
 * 🌍 I'm based in Saint-Petersburg
-* 🚀 I'm currently working on [Games](https://github.com/NickMad17/2-nd-course-hw.git)
 
 <h2 align="left">My Skill Set</h2>
 
