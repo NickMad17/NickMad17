@@ -2,12 +2,7 @@
  -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  My name is Maady </h1>
 
-<p align="center"><a href="https://cv-swart-six.vercel.app/"><img src="https://github.com/NickMad17/NickMad17/assets/104986153/666ba9c5-c417-4633-8d98-032e6800ae21" width="250"/></a></p>
 
-
-
-
-<h4 align="center">My Portfolio⬆⬆⬆</h4>
 
 
 
